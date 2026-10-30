@@ -111,6 +111,10 @@ cp -r skills/* .gemini/skills/
 **可以修改技能吗？**
 可以，MIT 许可——自由使用、修改、再发布，打包成自己的技能包也行。
 
+## 免责声明
+
+CreatorKit 是独立的社区项目，**与 Anthropic、OpenAI、Google、Cursor、GitHub 均无隶属、背书或赞助关系**。文中提及的 "Claude Code"、"Cursor"、"Codex"、"Gemini CLI"、"GitHub Copilot" 等产品名称均为其各自所有者的商标，仅用于描述与开放 Agent Skills 标准（agentskills.io）的兼容性，不构成任何官方关联声明。
+
 ## 许可
 
 MIT —— 自由使用、修改、再发布。

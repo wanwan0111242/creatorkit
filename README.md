@@ -111,6 +111,10 @@ No. It's open source (MIT) and free to use. If you find it useful and want to su
 **Can I modify the skills?**
 Yes — MIT license. Remix them, ship your own kit.
 
+## Disclaimer
+
+CreatorKit is an independent, community-driven project. It is **not affiliated with, endorsed by, or sponsored by** Anthropic, OpenAI, Google, Cursor, or GitHub. Product names such as "Claude Code", "Cursor", "Codex", "Gemini CLI", and "GitHub Copilot" are trademarks of their respective owners; they are mentioned only to describe compatibility with the open Agent Skills standard (agentskills.io).
+
 ## License
 
 MIT — use them, remix them, ship your own kit.
